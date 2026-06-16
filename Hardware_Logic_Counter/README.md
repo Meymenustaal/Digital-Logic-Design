@@ -34,3 +34,6 @@ instantly resets the counter to `0000` to maintain the MOD-9 constraint.
 
 
 <img width="600" height="818" alt="image" src="https://github.com/user-attachments/assets/efefda05-cbe9-4acb-8e0a-3c7dc68441db" />
+
+
+## 👨‍💻 Muhammed Eymen Ustaal /Electrical and Electronics Engineering Student
